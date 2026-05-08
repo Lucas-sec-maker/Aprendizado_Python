@@ -1,3 +1,4 @@
+
 # 🐍 Exercícios de Python
 
 Repositório dedicado ao armazenamento de desafios, exercícios e projetos práticos desenvolvidos durante meus estudos de lógica de programação e sintaxe da linguagem Python.
@@ -17,3 +18,5 @@ Se você quiser testar os códigos localmente, siga estes passos:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+=======
+
