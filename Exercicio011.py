@@ -8,6 +8,8 @@ altura = float(input("Altura: "))
 
 #calculando as informações
 area_parede = altura * largura
+litros_tinta = area_parede/2
 
-print(area_parede)
+print(f"Sua área para pintura é {largura} x {altura} com área de {area_parede}m²")
+print(f"Para pintar a sua parede iremos precisar de {litros_tinta}l de tinta")
 
