@@ -1,0 +1,1 @@
+#Exibir um número real com o dobro, triplo e a raiz quadrada
