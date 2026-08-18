@@ -10,3 +10,6 @@ angulo_radiano = math.radians(angulo)
 seno = math.sin(angulo_radiano)
 cosseno = math.cos(angulo_radiano)
 tangente = math.tan(angulo_radiano)
+
+#Resultado 
+print(f"O ângulo do triângulo é {angulo:.0f}; o seno é {seno:.2f}, o cosseno é {cosseno:.2f} e a tangente é {tangente:.2f}")
