@@ -13,4 +13,5 @@ litros_tinta = area_parede/2
 #Gerando o resultado com as variáveis calculadas
 print(f"Sua área para pintura é {largura} x {altura} com área de {area_parede}m²")
 print(f"Para pintar a sua parede iremos precisar de {litros_tinta}l de tinta")
+print("Satisfeito?")
 
