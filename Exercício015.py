@@ -9,3 +9,4 @@ numInt = int(numReal)
 #Saída
 
 print(f"A porção inteira de {numReal} é {numInt}")
+#Transformando os tipos de número através de módulos
